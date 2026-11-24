@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm Tiana, a first year student at university.
+I'm Tiana, a second year student at university.
 😄 Pronouns: she/her
-🌱 I’m currently learning C and Python. I also want to join the school's robotics club as I have a love for building things.
+
 
 <!--
 **unearthlydeath/unearthlydeath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
